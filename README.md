@@ -3,12 +3,6 @@
 
 Make an unhackable and super-strong passwords with just a click 👆
 
-Owner and developer :- @TreveenHirukshaBastian
-
-staff and files developer:- @Nadith_Liyanage
-
-
-
 # Installation :
 
       $ git clone https://github.com/Hirukshacoder/Random-password-generator
