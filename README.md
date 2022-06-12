@@ -6,6 +6,7 @@ Make an unhackable and super-strong passwords with just a click 👆
 # Installation :
 
       $ git clone https://github.com/Hirukshacoder/Random-password-generator
+      $ cd Random-password-generator
       $ python3 autorun.py  <-----(optional)
       $ pip install -r requirements.txt
       $ python3 main.py
