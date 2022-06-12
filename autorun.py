@@ -5,7 +5,7 @@ import subprocess
 # readme.md
 readme = str(input("Do you want to read the documentaries? ['y'/'n']: "))
 if readme == 'y':
-    subprocess.run("nano README.txt", shell=True)
+    subprocess.run("nano README.md", shell=True)
 
 elif readme == 'n':
     print("OK, Enjoy")
