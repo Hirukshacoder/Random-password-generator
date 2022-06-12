@@ -1,12 +1,10 @@
-# Random-password-generator
-
 # Random password Generator 1.0 VOL
 # =================================
 
 Make an unhackable and super-strong passwords with just a click 👆
 
 Owner and developer :- @TreveenHirukshaBastian
-staff :- @Nadith_Liyanage
+staff and files developer:- @Nadith_Liyanage
 
 
 
@@ -25,6 +23,8 @@ staff :- @Nadith_Liyanage
  > Saves your password with just a click
  > More assets to make the password unhackable and super-strong
 
+
+# Information about the developers
 @TreveenHirukshaBastian :- developer of the generators
 @Nadith_Liyanage :- developer of the file system to save passwords
 @TreveenHirukshaBastian :- developer of the main.py
